@@ -22,4 +22,4 @@
     <item android:state_activated="true" android:color="@color/abs__bright_foreground_holo_dark"/>
     <item android:color="@color/abs__bright_foreground_holo_dark"/> <!-- not selected -->
 </selector>
-<!-- From: file:/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/actionbarsherlock/res/color/abs__primary_text_holo_dark.xml -->
+<!-- From: file:/Users/longjianlin/Documents/longjl-dev/PhotoShare/deps/actionbarsherlock/res/color/abs__primary_text_holo_dark.xml -->

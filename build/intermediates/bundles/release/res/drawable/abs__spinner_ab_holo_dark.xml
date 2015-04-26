@@ -23,4 +23,4 @@
           android:drawable="@drawable/abs__spinner_ab_focused_holo_dark" />
     <item android:drawable="@drawable/abs__spinner_ab_default_holo_dark" />
 </selector>
-<!-- From: file:/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/actionbarsherlock/res/drawable/abs__spinner_ab_holo_dark.xml -->
+<!-- From: file:/Users/longjianlin/Documents/longjl-dev/PhotoShare/deps/actionbarsherlock/res/drawable/abs__spinner_ab_holo_dark.xml -->
